@@ -5,3 +5,4 @@
 ### Choi: [Adapter, Singleton, Prototype, Visitor, Decorator, Bridge]
 ### Yoo: [Chain of Responsibility, Memento, Iterator, Interpreter, Composite]
 ### Jung: [Factory Method, Strategy, Mediator, Proxy, Abstract Factory, Facade]
+ 
