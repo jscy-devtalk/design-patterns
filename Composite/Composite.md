@@ -109,7 +109,7 @@ public class Client {
 ## 컴포지트 패턴 적용 후
 ---
 <figure align="center">
-<img src="afterDir.png">
+
 <figcaption>패턴 적용 후 디렉토리 구조</figcaption>
 </figure>
 
