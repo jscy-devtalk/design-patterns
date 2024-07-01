@@ -24,16 +24,8 @@ Jung: [Factory Method, Strategy, Mediator, Proxy, Abstract Factory, Facade]
 ### 브랜치 룰
 - 디자인 패턴별 브랜치를 생성합니다.
 - 브랜치 네이밍은 "doc-패턴이름" 입니다.
-<<<<<<< HEAD
-
-### 커밋 컨벤션
-- 커밋 시 가독성 및 사전 의사소통을 위한 규칙입니다.
-- git commit -m "docs(디자인패턴): '작업/학습한 내용'"
-=======
 
 ### 커밋 컨벤션
 - 커밋 시 가독성 및 사전 의사소통을 위한 규칙입니다.
 - git commit -m "docs(디자인패턴): '작업/학습한 내용'"
 
-
->>>>>>> main
