@@ -7,7 +7,7 @@
 책임 연쇄 패턴은 요청을 보내는 쪽에서 그 요청을 처리하는 핸들러가 어떤 구체적인 타입인지 알 필요 없이 `Decoupling`된 상태로 요청을 처리하도록 보낼 수 있다.
 
 ## 구조
-<img src="ChainOfResponsibility.png">
+![img](https://github.com/sungmoyoo/note/blob/main/design-pattern/ChainOfResponsibility/ChainOfResponsibility.png?raw=true)
 
 - Client
   - 요청을 보내는 객체
@@ -269,7 +269,7 @@ public class F2 implements Filter {
 >F2 - 요청 후 처리  
 가 출력될 것이다.
 
-<img src="Filter.png">
+![img](https://github.com/sungmoyoo/note/blob/main/design-pattern/ChainOfResponsibility/Filter.png?raw=true)
 
 ### 스프링 시큐리티
 스프링 시큐리티의 SecurityConfig에서도 책임 연쇄 패턴이 활용된다.
