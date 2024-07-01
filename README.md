@@ -29,4 +29,3 @@ Jung: [Factory Method, Strategy, Mediator, Proxy, Abstract Factory, Facade]
 - 커밋 시 가독성 및 사전 의사소통을 위한 규칙입니다.
 - git commit -m "docs(디자인패턴): '작업/학습한 내용'"
 
-
