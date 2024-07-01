@@ -7,7 +7,7 @@ Composite 패턴은 객체를 트리 구조로 구성하여 복합객체와 개�
 
 ## 주요 구성 요소 및 구조
 ---
-<img src="Composite.png">
+![img](https://github.com/sungmoyoo/note/blob/main/design-pattern/Composite/Composite.png?raw=true)
 
 위 UML 다이어그램을 살펴보면 `Client` 클래스가 `Leaf`와 `Composite` 클래스를 직접 참조하지 않고 공통 인터페이스인 `Component`를 참조한다. 
 
@@ -29,7 +29,9 @@ Composite 패턴은 객체를 트리 구조로 구성하여 복합객체와 개�
 ## 컴포지트 패턴 적용 전
 ---
 <figure align="center">
-<img src="beforeDir.png">
+
+![img](https://github.com/sungmoyoo/note/blob/main/design-pattern/Composite/beforeDir.png?raw=true)
+
 <figcaption>패턴 적용 전 디렉토리 구조</figcaption>
 </figure>
 
@@ -109,6 +111,8 @@ public class Client {
 ## 컴포지트 패턴 적용 후
 ---
 <figure align="center">
+
+![img](https://github.com/sungmoyoo/note/blob/main/design-pattern/Composite/afterDir.png?raw=true)
 
 <figcaption>패턴 적용 후 디렉토리 구조</figcaption>
 </figure>
